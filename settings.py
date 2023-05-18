@@ -5,4 +5,3 @@ dia_directions = [1, 1], [-1, 1], [-1, -1], [1, -1]
 bfs_directions = x_y_directions + dia_directions
 wall_percentage = 0.5
 fast_mode = False
-algorithm = 'BFS'
